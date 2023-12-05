@@ -1,0 +1,43 @@
+/* INDEX*/ 
+
+.bg-img {
+    background-image: url('background-image1500x1500.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0; /* remover as margens padrão do body */
+}
+
+
+.logotopo {
+    height: 90px;
+    width: 90px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    
+} 
+
+.ml-100{
+    margin-left: 100px;
+}
+
+  
+    
+
+
+h1{
+    text-align: left; 
+    padding-top: 120px;
+    padding-left: 20px;
+    font-family: 'Work Sans', sans-serif;
+} 
+
+p{
+    padding-left: 20px;
+    width: 700px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: larger;
+}
+
+
+/* PAGINA PRODUTOS*/ 
+

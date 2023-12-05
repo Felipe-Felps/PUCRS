@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 16px;
+    background-image: url('bg-prod-serv-1500.jpg');
+    
+} 
+
+.logotopo {
+    height: 90px;
+    width: 90px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    
+} 
+
+.ml-100{
+    margin-left: 100px;
+} 
+
+.form{
+    width: 700px;
+    margin-top: 250px;
+    padding-left: 50px;
+    
+} 
+
+
+
+.form-porte{
+    padding-top: 20px;
+} 
+
+.botao-env{
+    width: 100px;
+    
+}
