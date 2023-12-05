@@ -44,7 +44,7 @@
     // Adicione outras lógicas de validação conforme necessário
 
     alert('Formulário válido. Enviando...');
-    // Adicione aqui a lógica para enviar o formulário se todos os campos estiverem preenchidos
+    
     return true; // Permite o envio do formulário se todos os campos estiverem preenchidos
   }
 
